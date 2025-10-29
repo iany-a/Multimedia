@@ -1,0 +1,3 @@
+js script if put in head loads before any html info in body loads
+to counteract this, we will be using event-type programming > some blocks of code only run in specific conditions or on specific triggers
+in javascript everything is an object, meaning we can pass functions as parameters in another function.

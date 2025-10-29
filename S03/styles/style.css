@@ -1,0 +1,25 @@
+.cell{
+    width: 50px;
+    height: 50px;
+    border: 1px solid #888;
+    border-radius: 5px;
+    background-color: #bbb;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 4px;
+    margin: 4px;
+    display: inline-block; /*allows 1 row block to show all their cells concatenated*/
+}
+
+.green{
+    background-color: lightgreen;
+}
+
+.yellow{
+    background-color: lightyellow;
+}
+
+.red{
+    background-color: lightcoral;
+}

@@ -1,0 +1,53 @@
+Lucian
+
+JS based
+no compiler, no debugger
+discord channel (?) - needs to be setup by teach
+
+final eval: 50%
+>theoretical exam - 25%
+>practical exam - 25%
+
+final project: 10%
+lab work: 20%
+course work: 20%
+
+
+project - week 2
+-end of week 3 must confirm group and theme
+-no more than 3 groups can choose the same theme
+-github
+-progressive steps weeks 4, 7, 10, 13 (milestones)
+
+
+generated code is OK for project, however need to be sure that it is correct
+
+week 13 - project evaluation
+week 14 final evaluation - practical exam
+
+
+++++++++++++++++++++++++++++++++++++++++
+
+HTML
+
+Requests sent by clients to servers:
+
+GET - req data
+POST - send data
+PUT/PATCH - modify data
+DELETE - erase data
+
+Server response:
+response code: 200 = 0K
+
+status codes:
+2xx - informational e.g. 101 - switching protocols
+2xx - success e.g. 200 - ok, 201 created, 204 no content (used in deletion confirmation as no data was available to be sent back post deletion)
+3xx - redirect e.g. 301 - moved permanently, 308 - redirected permanently
+4xx - client errors - 400 bad req, 401 unauthorized, 403 forbidden, 404 not found
+5xx - server errors e.g. 500 - internal server error, 503 - service unavailable
+
+web app - communication with server (JS)
+
+
+

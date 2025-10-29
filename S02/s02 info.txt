@@ -1,0 +1,4 @@
+! + ENTER at the start
+<tag>content</tag>
+<div></div> = division
+<section></section> = like div but it's more detailed, more use specific
