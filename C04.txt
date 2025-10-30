@@ -1,0 +1,14 @@
+HTML CSS JS (scripting languages) = don't need an IDE to compile and to link/embed our code
+				-code is read by browsers which have an engine for generating dynamic content using JS
+				
+JS - 
+
+
+
+algebra
+java
+structuri de date
+micro
+analiza
+oop
+

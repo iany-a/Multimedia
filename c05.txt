@@ -1,0 +1,11 @@
+evaluation - quiz base, analyze some small code and confirm what it does as an answer
+10-16 nov own laptop
+
+color model - used to generate all colors
+e.g. RGB - Red, Green Blue - combines them to create all other colors
+https://photopea.com
+HUE 0-360 degrees
+saturation 0-100%
+brightness 0-100%
+color.adobe.com
+
