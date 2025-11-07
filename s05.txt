@@ -1,1 +1,3 @@
 coordinates for y start from top to bottom so from 0 to infinite from top of page
+
+NEVER use width and height with canvases in CSS
